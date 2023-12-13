@@ -1,0 +1,2 @@
+g++ *.cpp -o main -lSDL2 -lGL -lGLEW
+./main
